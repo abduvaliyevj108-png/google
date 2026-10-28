@@ -1,0 +1,4377 @@
+[
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT",
+    "url": "https://chatgpt.com",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "OpenAI tomonidan yaratilgan yetakchi universal AI chatboti va yordamchi.",
+    "features": [
+      "Matn yozish va tahlil",
+      "Dasturlashda yordam",
+      "Rasm yaratish (DALL-E)",
+      "Ovozli muloqot"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "OpenAI",
+      "Chatbot",
+      "AI",
+      "Matn"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "ChatGPT Team"
+  },
+  {
+    "id": "claude",
+    "name": "Claude AI",
+    "url": "https://claude.ai",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Anthropic kompaniyasining kuchli, xavfsiz va uzun hujjatlar bilan mukammal ishlovchi AI yordamchisi.",
+    "features": [
+      "Katta matnlar tahlili",
+      "Mukammal kod yozish",
+      "Tabiiy va mantiqiy dialog"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Anthropic",
+      "Kodlash",
+      "Hujjatlar"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "Claude AI Team"
+  },
+  {
+    "id": "gemini",
+    "name": "Google Gemini",
+    "url": "https://gemini.google.com",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Google'ning real vaqt rejimidagi ma'lumotlar bilan boyitilgan multimodal sun'iy intellekti.",
+    "features": [
+      "Google xizmatlari bilan integratsiya",
+      "Multimodal qobiliyat",
+      "Tezkor qidiruv"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Google",
+      "Multimodal",
+      "Qidiruv"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "Google Gemini Team"
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "url": "https://www.midjourney.com",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Eng yuqori sifatli va fotorealistik tasvirlar yaratuvchi generativ AI tizimi.",
+    "features": [
+      "Ultra-realistik tasvir",
+      "Badiiy uslublar",
+      "Yuqori aniqlik"
+    ],
+    "pricing": "Pullik",
+    "tags": [
+      "Rasm",
+      "Generatsiya",
+      "San'at"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "Midjourney Team"
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity AI",
+    "url": "https://www.perplexity.ai",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Aniq havolalar va manbalar bilan javob beruvchi zamonaviy AI qidiruv tizimi.",
+    "features": [
+      "Manbalar bilan javob",
+      "Akademik izlanish",
+      "Tezkor axborot qidiruvi"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Qidiruv",
+      "Research",
+      "Faktlar"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "Perplexity AI Team"
+  },
+  {
+    "id": "runwayml",
+    "name": "Runway ML",
+    "url": "https://runwayml.com",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Matn va rasmlardan kino darajasidagi videolarni generatsiya qiluvchi professional AI platforma.",
+    "features": [
+      "Gen-2 va Gen-3 video generator",
+      "Video tahrirlash",
+      "Kamera harakatini boshqarish"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Video",
+      "Generatsiya",
+      "Kino"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "Runway ML Team"
+  },
+  {
+    "id": "elevenlabs",
+    "name": "ElevenLabs",
+    "url": "https://elevenlabs.io",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Eng tabiiy va his-tuyg'ularga boy ovoz sintezi hamda ovoz klonlash vositasi.",
+    "features": [
+      "Ovoz klonlash",
+      "Ko'p tilli nutq sintezi",
+      "Ovozli dublyaj"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Ovoz",
+      "TTS",
+      "Dublyaj"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "ElevenLabs Team"
+  },
+  {
+    "id": "suno",
+    "name": "Suno AI",
+    "url": "https://suno.com",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Oddiy matnli tavsifdan professional musiqa va qo'shiqlar yaratuvchi musiqa generatori.",
+    "features": [
+      "Vokal va musiqa yaratish",
+      "Janrlarni tanlash",
+      "Tezkor kompozitsiya"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Musiqa",
+      "Audio",
+      "Qo'shiq"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "Suno AI Team"
+  },
+  {
+    "id": "huggingface",
+    "name": "Hugging Face",
+    "url": "https://huggingface.co",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Sun'iy intellekt modellari, ma'lumotlar to'plamlari va demo ilovalari uchun global ochiq kodli hamjamiyat.",
+    "features": [
+      "Ochiq modellar (LLMs)",
+      "Datasetlar",
+      "Spaces demo loyihalar"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Open-Source",
+      "Modellar",
+      "AI Jamiyat"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "Hugging Face Team"
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "url": "https://chat.deepseek.com",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Mantiqiy fikrlash (reasoning) va dasturlashda favqulodda kuchli ochiq arxitekturaga ega AI platforma.",
+    "features": [
+      "Chuqur mantiqiy fikrlash",
+      "Murakkab matematika",
+      "Arzon va samarali"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Reasoning",
+      "Dasturlash",
+      "Ochiq arxitektura"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "DeepSeek Team"
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "url": "https://github.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "Dunyodagi eng yirik dasturchilar platformasi, kod ombori va versiyalarni boshqarish tizimi.",
+    "features": [
+      "Git omborlari",
+      "GitHub Actions CI/CD",
+      "GitHub Copilot",
+      "Pull Requests"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Git",
+      "Hamkorlik",
+      "Open-source"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "GitHub Team"
+  },
+  {
+    "id": "gitlab",
+    "name": "GitLab",
+    "url": "https://gitlab.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "DevOps va kod boshqaruvi uchun keng qamrovli yagona platforma.",
+    "features": [
+      "Kuchli CI/CD",
+      "Xavfsizlik skaneri",
+      "Issue tracking"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "DevOps",
+      "CI/CD",
+      "Git"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "GitLab Team"
+  },
+  {
+    "id": "stackoverflow",
+    "name": "Stack Overflow",
+    "url": "https://stackoverflow.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "Dasturchilar savol berib, xatolariga yechim topadigan dunyodagi eng katta savol-javob hamjamiyati.",
+    "features": [
+      "Muammolarga yechimlar",
+      "Hamjamiyat baholari",
+      "Dasturlash bo'yicha ma'lumotlar bazasi"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Savol-javob",
+      "Hamjamiyat",
+      "Debug"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "Stack Overflow Team"
+  },
+  {
+    "id": "vercel",
+    "name": "Vercel",
+    "url": "https://vercel.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "Frontend va to'liq stekli veb-ilovalarni (ayniqsa Next.js) bir zumda global serverlarga joylash (deploy) platformasi.",
+    "features": [
+      "Avtomatik deploy",
+      "Serverless va Edge funksiyalar",
+      "Global CDN"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Deployment",
+      "Next.js",
+      "Serverless"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "Vercel Team"
+  },
+  {
+    "id": "netlify",
+    "name": "Netlify",
+    "url": "https://www.netlify.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "Statik va zamonaviy veb-saytlar uchun oson deploy va hosting xizmati.",
+    "features": [
+      "Deploy previews",
+      "Form handling",
+      "Edge functions"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Hosting",
+      "Frontend",
+      "Jamstack"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "Netlify Team"
+  },
+  {
+    "id": "supabase",
+    "name": "Supabase",
+    "url": "https://supabase.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "Firebase'ning ochiq kodli PostgreSQL bazasiga qurilgan kuchli analogi.",
+    "features": [
+      "PostgreSQL bazasi",
+      "Autentifikatsiya",
+      "Realtime obunalar",
+      "Fayllar ombori"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Database",
+      "Postgres",
+      "Backend"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "Supabase Team"
+  },
+  {
+    "id": "firebase",
+    "name": "Google Firebase",
+    "url": "https://firebase.google.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "Mobil va veb-ilovalarni tez yaratish uchun Google'ning to'liq backend ekotizimi.",
+    "features": [
+      "Firestore NoSQL",
+      "Auth",
+      "Push-xabarnomalar",
+      "Hosting"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Backend",
+      "Google",
+      "Mobile"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "Google Firebase Team"
+  },
+  {
+    "id": "codesandbox",
+    "name": "CodeSandbox",
+    "url": "https://codesandbox.io",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "Brauzerda to'g'ridan-to'g'ri to'liq stekli ilovalarni yaratish va test qilish uchun onlayn muhit.",
+    "features": [
+      "Birgalikda real vaqtda kod yozish",
+      "Docker asosidagi konteynerlar",
+      "Shablonlar"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "IDE",
+      "Online",
+      "Frontend"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "CodeSandbox Team"
+  },
+  {
+    "id": "replit",
+    "name": "Replit",
+    "url": "https://replit.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "50 dan ortiq tilda brauzerdan kod yozish, deploy qilish va AI yordamida ilova yasash maydoni.",
+    "features": [
+      "Multi-til qo'llab-quvvatlash",
+      "AI Agent (Replit Agent)",
+      "Bir bosishda deploy"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Online IDE",
+      "AI",
+      "Cloud"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "Replit Team"
+  },
+  {
+    "id": "postman",
+    "name": "Postman",
+    "url": "https://www.postman.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "API'larni loyihalash, test qilish va hujjatlashtirish bo'yicha global standart vosita.",
+    "features": [
+      "API testing",
+      "Mock serverlar",
+      "Jamoaviy workspace"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "API",
+      "Testing",
+      "Backend"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "Postman Team"
+  },
+  {
+    "id": "npm",
+    "name": "npm (Node Package Manager)",
+    "url": "https://www.npmjs.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "JavaScript va Node.js dasturlash tili uchun eng yirik kutubxonalar ombori.",
+    "features": [
+      "Millionlab paketlar",
+      "Versiyalarni boshqarish",
+      "Xavfsizlik auditlari"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "JavaScript",
+      "NodeJS",
+      "Kutubxonalar"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "npm (Node Package Manager) Team"
+  },
+  {
+    "id": "mdn",
+    "name": "MDN Web Docs",
+    "url": "https://developer.mozilla.org",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "Veb-texnologiyalar (HTML, CSS, JavaScript, Web APIs) bo'yicha eng ishonchli va rasmiy ensiklopediya.",
+    "features": [
+      "Rasmiy standartlar",
+      "Interaktiv misollar",
+      "Brauzer mosligi jadvallari"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Hujjatlar",
+      "HTML/CSS",
+      "JavaScript"
+    ],
+    "rating": 5,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "MDN Web Docs Team"
+  },
+  {
+    "id": "figma",
+    "name": "Figma",
+    "url": "https://www.figma.com",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "UI/UX dizayni, prototiplash va jamoaviy hamkorlik uchun dunyodagi birinchi raqamli platforma.",
+    "features": [
+      "Real vaqtda jamoaviy ishlash",
+      "Interaktiv prototiplar",
+      "Auto Layout",
+      "Dizayn tizimlari"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "UI/UX",
+      "Prototip",
+      "Vektor"
+    ],
+    "rating": 5,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Figma Team"
+  },
+  {
+    "id": "canva",
+    "name": "Canva",
+    "url": "https://www.canva.com",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "Oddiy foydalanuvchilar va mutaxassislar uchun ijtimoiy tarmoq postlari, taqdimotlar va bannerlar yasash sayti.",
+    "features": [
+      "Minglab tayyor shablonlar",
+      "Drag-and-drop muharrir",
+      "AI dizayn vositalari"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Shablonlar",
+      "SMM",
+      "Grafika"
+    ],
+    "rating": 4.8,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Canva Team"
+  },
+  {
+    "id": "dribbble",
+    "name": "Dribbble",
+    "url": "https://dribbble.com",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "Grafik dizaynerlar, illyustratorlar va UI/UX ustalari o'z ishlarini namoyish qiladigan ijodiy portallar tarmog'i.",
+    "features": [
+      "Ilhomlanish (Inspiration)",
+      "Portfolio yaratish",
+      "Frilans ish qidirish"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Portfolio",
+      "Ilhom",
+      "Art"
+    ],
+    "rating": 4.6,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Dribbble Team"
+  },
+  {
+    "id": "behance",
+    "name": "Behance",
+    "url": "https://www.behance.net",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "Adobe kompaniyasiga tegishli dunyoning eng yirik dizayn va san'at portfoliolari katalogi.",
+    "features": [
+      "Katta keyslar",
+      "Turli yo'nalishlar (3D, arxitektura, brending)",
+      "Ish e'lonlari"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Portfolio",
+      "Adobe",
+      "Keyslar"
+    ],
+    "rating": 4.7,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Behance Team"
+  },
+  {
+    "id": "unsplash",
+    "name": "Unsplash",
+    "url": "https://unsplash.com",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "Tijoriy va shaxsiy loyihalar uchun mutlaqo bepul yuklab olinadigan yuqori aniqlikdagi fotosuratlar platformasi.",
+    "features": [
+      "Bepul fotobank",
+      "Yuqori sifat (HD/4K)",
+      "Litsenziyadan ozod"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Fotobank",
+      "Rasmlar",
+      "HD"
+    ],
+    "rating": 4.9,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Unsplash Team"
+  },
+  {
+    "id": "pexels",
+    "name": "Pexels",
+    "url": "https://www.pexels.com",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "Dizaynerlar va video montajchilar uchun bepul stok fotosuratlar va qisqa video roliklar ombori.",
+    "features": [
+      "Bepul videoroliklar",
+      "Mavzuli to'plamlar",
+      "Atributsiya talab qilinmaydi"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Stok video",
+      "Stok rasm",
+      "Bepul"
+    ],
+    "rating": 4.8,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Pexels Team"
+  },
+  {
+    "id": "flaticon",
+    "name": "Flaticon",
+    "url": "https://www.flaticon.com",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "Veb-saytlar va ilovalar uchun millionlab vektor piktogrammalar (ikonkalar) va stikerlar to'plami.",
+    "features": [
+      "SVG, PNG formatlar",
+      "Ranglarni tahrirlash",
+      "Ikonka to'plamlari"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Ikonkalar",
+      "SVG",
+      "Vektor"
+    ],
+    "rating": 4.6,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Flaticon Team"
+  },
+  {
+    "id": "coolors",
+    "name": "Coolors",
+    "url": "https://coolors.co",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "Probel tugmasini bosish orqali bir necha soniyada chiroyli va uyg'un ranglar palitrasini yaratuvchi generator.",
+    "features": [
+      "Ranglar palitralari",
+      "Kontrast tekshirgich",
+      "Rasmdan rang ajratish"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Ranglar",
+      "Palitra",
+      "Veb-dizayn"
+    ],
+    "rating": 4.8,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Coolors Team"
+  },
+  {
+    "id": "fontshare",
+    "name": "Fontshare",
+    "url": "https://www.fontshare.com",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "Tijoriy maqsadlarda foydalanish mumkin bo'lgan eng chiroyli va zamonaviy bepul shriftlar xazinasi.",
+    "features": [
+      "100% bepul litsenziya",
+      "Variable shriftlar",
+      "Yuqori sifatli tipografika"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Shriftlar",
+      "Tipografika",
+      "Fonts"
+    ],
+    "rating": 4.9,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Fontshare Team"
+  },
+  {
+    "id": "spline",
+    "name": "Spline 3D",
+    "url": "https://spline.design",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "Brauzerda 3D obyektlar, animatsiyalar yaratish va ularni veb-saytga interaktiv ulash vositasi.",
+    "features": [
+      "3D veb-animatsiya",
+      "Interaktiv reaksiyalar",
+      "Kodga eksport qilish"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "3D",
+      "Web3D",
+      "Animatsiya"
+    ],
+    "rating": 4.8,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Spline 3D Team"
+  },
+  {
+    "id": "coursera",
+    "name": "Coursera",
+    "url": "https://www.coursera.org",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Dunyoning yetakchi universitetlari (Stanford, Yale) va kompaniyalari (Google, IBM) tomonidan taqdim etilgan onlayn kurslar.",
+    "features": [
+      "Xalqaro sertifikatlar",
+      "Universitet diplom dasturlari",
+      "Moliyaviy yordam olish imkoni"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Universitet",
+      "Sertifikat",
+      "Kurslar"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "Coursera Team"
+  },
+  {
+    "id": "edx",
+    "name": "edX",
+    "url": "https://www.edx.org",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Garvard va MIT tomonidan tashkil etilgan ilmiy va amaliy onlayn ta'lim platformasi.",
+    "features": [
+      "Akademik chuqur bilimlar",
+      "Mikro-magistratura",
+      "Bepul audit rejimida o'qish"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Garvard",
+      "MIT",
+      "Ta'lim"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "edX Team"
+  },
+  {
+    "id": "udemy",
+    "name": "Udemy",
+    "url": "https://www.udemy.com",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Dasturlash, biznes, dizayn va boshqa yuzlab sohalarda 200,000 dan ortiq amaliy video kurslar do'koni.",
+    "features": [
+      "Bir umrlik kirish huquqi",
+      "Amaliy loyihalar",
+      "Muntazam arzon chegirmalar"
+    ],
+    "pricing": "Pullik",
+    "tags": [
+      "Video kurslar",
+      "Amaliyot",
+      "Malaka"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "Udemy Team"
+  },
+  {
+    "id": "khanacademy",
+    "name": "Khan Academy",
+    "url": "https://www.khanacademy.org",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Maktab va kollej fanlari: matematika, fizika, kimyo va iqtisodiyot bo'yicha 100% bepul ta'lim portali.",
+    "features": [
+      "Mutlaqo bepul va reklamasiz",
+      "O'zbek tiliga tarjima qilingan bo'limlar",
+      "Bosqichma-bosqich mashqlar"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Maktab",
+      "Matematika",
+      "Xayriya"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "Khan Academy Team"
+  },
+  {
+    "id": "duolingo",
+    "name": "Duolingo",
+    "url": "https://www.duolingo.com",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Chet tillarini o'yin (gamification) shaklida oson va qiziqarli o'rganish bo'yicha dunyodagi eng mashhur ilova.",
+    "features": [
+      "Kunlik 5 daqiqalik darslar",
+      "O'yin mexanikasi",
+      "40+ chet tillari"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Tillar",
+      "Ingliz tili",
+      "Gamifikatsiya"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "Duolingo Team"
+  },
+  {
+    "id": "freecodecamp",
+    "name": "freeCodeCamp",
+    "url": "https://www.freecodecamp.org",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Noldan professional veb-dasturchi bo'lish uchun to'liq bepul interaktiv platforma va sertifikatlar.",
+    "features": [
+      "Amaliy interaktiv mashqlar",
+      "Real loyihalar",
+      "Bepul tasdiqlangan sertifikatlar"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Dasturlash",
+      "Frontend",
+      "Bepul"
+    ],
+    "rating": 5,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "freeCodeCamp Team"
+  },
+  {
+    "id": "leetcode",
+    "name": "LeetCode",
+    "url": "https://leetcode.com",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Algoritmlar, ma'lumotlar tuzilmalari va FAANG texnik suhbatlariga tayyorlanish uchun asosiy poligon.",
+    "features": [
+      "Minglab algoritmik masalalar",
+      "Haftalik musobaqalar",
+      "Kompaniyalar suhbat savollari"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Algoritmlar",
+      "Suhbatlar",
+      "Python/C++"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "LeetCode Team"
+  },
+  {
+    "id": "w3schools",
+    "name": "W3Schools",
+    "url": "https://www.w3schools.com",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Dasturlashni boshlovchilar uchun eng sodda tushuntirilgan qo'llanmalar va 'Try It Yourself' muharriri.",
+    "features": [
+      "Juda sodda tushuntirishlar",
+      "Onlayn sinov muhiti",
+      "Qisqa ma'lumotnomalar"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Beginner",
+      "HTML",
+      "Qo'llanma"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "W3Schools Team"
+  },
+  {
+    "id": "scrimba",
+    "name": "Scrimba",
+    "url": "https://scrimba.com",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Video darsni to'xtatib, bevosita video ichidagi kodni tahrirlash imkonini beruvchi inqilobiy interaktiv ta'lim sayti.",
+    "features": [
+      "Interaktiv video pleyer",
+      "Frontend Career Path",
+      "Faol Discord jamoasi"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Interaktiv",
+      "React",
+      "Frontend"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "Scrimba Team"
+  },
+  {
+    "id": "brilliant",
+    "name": "Brilliant",
+    "url": "https://brilliant.org",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Matematika, mantiq, fizika va informatika fanlarini vizual jumboqlar orqali o'rgatuvchi platforma.",
+    "features": [
+      "Vizual mantiq",
+      "Interaktiv tajribalar",
+      "Intellektni oshirish"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Mantiq",
+      "Matematika",
+      "STEM"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "Brilliant Team"
+  },
+  {
+    "id": "notion",
+    "name": "Notion",
+    "url": "https://www.notion.so",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "Qaydlar, hujjatlar, vazifalar va loyihalarni boshqarish uchun barchasi bittada ish maydoni.",
+    "features": [
+      "Blokli tuzilma",
+      "Kuchli ma'lumotlar bazasi",
+      "AI yozish yordamchisi",
+      "Shablonlar"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Qaydlar",
+      "Rejalashtirish",
+      "Baza"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "Notion Team"
+  },
+  {
+    "id": "trello",
+    "name": "Trello",
+    "url": "https://trello.com",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "Kanban doskalari usulida shaxsiy va jamoaviy vazifalarni qulay vizualizatsiya qilish xizmati.",
+    "features": [
+      "Kanban kartochkalari",
+      "Oddiy va tushunarli",
+      "Butler avtomatizatsiyasi"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Kanban",
+      "Vazifalar",
+      "Jamoa"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "Trello Team"
+  },
+  {
+    "id": "slack",
+    "name": "Slack",
+    "url": "https://slack.com",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "Kompaniyalar va masofaviy jamoalar uchun tartibli kanallar va xabarlar platformasi.",
+    "features": [
+      "Mavzuli kanallar",
+      "Botlar va ilovalar integratsiyasi",
+      "Ovozli huddle"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Chat",
+      "Jamoa",
+      "Korporativ"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "Slack Team"
+  },
+  {
+    "id": "loom",
+    "name": "Loom",
+    "url": "https://www.loom.com",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "Ekran va kamerani bir vaqtda tez yozib olib, bir zumda havola orqali boshqalarga ulashish vositasi.",
+    "features": [
+      "Tezkor ekran yozuvi",
+      "AI transkript",
+      "Izohlar qoldirish"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Video yozuv",
+      "Ekran",
+      "Asinxron aloqa"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "Loom Team"
+  },
+  {
+    "id": "clockify",
+    "name": "Clockify",
+    "url": "https://clockify.me",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "Qaysi vazifaga qancha vaqt sarflayotganingizni aniq kuzatuvchi 100% bepul taym-treker.",
+    "features": [
+      "Vaqtni hisoblash",
+      "Haftalik hisobotlar",
+      "Frilanserlar uchun billing"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Vaqt",
+      "Taymer",
+      "Statistika"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "Clockify Team"
+  },
+  {
+    "id": "todoist",
+    "name": "Todoist",
+    "url": "https://todoist.com",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "Kunlik rejalar va ishlarni tartibga solish uchun dunyodagi eng qulay to-do ilovalardan biri.",
+    "features": [
+      "Tabiiy tilda kiritish",
+      "Prioritetlar",
+      "Barcha qurilmalarda sinxronizatsiya"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Reja",
+      "To-do",
+      "Fokus"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "Todoist Team"
+  },
+  {
+    "id": "miro",
+    "name": "Miro",
+    "url": "https://miro.com",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "Miyani charxlash (brainstorming), sxemalar va aqliy xaritalar chizish uchun cheksiz raqamli doska.",
+    "features": [
+      "Cheksiz doska",
+      "Sticky notes",
+      "Dizayn sprintlari"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Doska",
+      "Brainstorming",
+      "Mindmap"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "Miro Team"
+  },
+  {
+    "id": "calendly",
+    "name": "Calendly",
+    "url": "https://calendly.com",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "Uchrashuv va qo'ng'iroqlarni vaqt talashmasdan, bitta havola orqali avtomatik belgilash tizimi.",
+    "features": [
+      "Google/Outlook kalendar integratsiyasi",
+      "Vaqt zonalarini to'g'irlash",
+      "Avto-eslatmalar"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Uchrashuv",
+      "Kalendar",
+      "Avtomatika"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "Calendly Team"
+  },
+  {
+    "id": "googleworkspace",
+    "name": "Google Docs & Drive",
+    "url": "https://docs.google.com",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "Hujjatlar, jadvallar va slaydlarni bulutda birgalikda yaratish va tahrirlash ekotizimi.",
+    "features": [
+      "Birgalikda tahrirlash",
+      "Avtomatik saqlanish",
+      "15 GB bepul bulut"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Bulut",
+      "Docs",
+      "Google"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "Google Docs & Drive Team"
+  },
+  {
+    "id": "obsidian",
+    "name": "Obsidian",
+    "url": "https://obsidian.md",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "Shaxsiy bilimlarni bir-biriga bog'langan gipermatnlar (Graph view) tarzida saqlovchi Markdown muharriri.",
+    "features": [
+      "Fayllar faqat o'z kompyuteringizda",
+      "O'zaro bog'langan bilimlar tarmog'i",
+      "Keng plaginlar bazasi"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Markdown",
+      "Zettelkasten",
+      "Offline"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "Obsidian Team"
+  },
+  {
+    "id": "removebg",
+    "name": "Remove.bg",
+    "url": "https://www.remove.bg",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Har qanday fotosurat orqa fonini (background) 3 soniyada avtomatik va toza olib tashlovchi servis.",
+    "features": [
+      "Bir soniyada qirqish",
+      "Obyekt va insonni aniqlash",
+      "Shaffof PNG eksport"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Fonni o'chirish",
+      "Rasm",
+      "Tezkor"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "Remove.bg Team"
+  },
+  {
+    "id": "tinypng",
+    "name": "TinyPNG",
+    "url": "https://tinypng.com",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "WebP, PNG va JPEG rasmlar sifatini deyarli yo'qotmasdan hajmini 70% gacha siquvchi mashhur sayt.",
+    "features": [
+      "Aqlli siqish (Smart compression)",
+      "Veb-sayt tezligini oshirish",
+      "Bir nechta faylni birdan yuklash"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Siqish",
+      "Hajm kamaytirish",
+      "Veb-optimizatsiya"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "TinyPNG Team"
+  },
+  {
+    "id": "ilovepdf",
+    "name": "iLovePDF",
+    "url": "https://www.ilovepdf.com",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "PDF fayllarni birlashtirish, bo'lish, siqish, Word/Excel ga aylantirish uchun barcha kerakli vositalar.",
+    "features": [
+      "PDF dan Word ga",
+      "PDF hajmini kamaytirish",
+      "Parol qo'yish yoki yechish"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "PDF",
+      "Konvertor",
+      "Hujjat"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "iLovePDF Team"
+  },
+  {
+    "id": "speedtest",
+    "name": "Speedtest by Ookla",
+    "url": "https://www.speedtest.net",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Internet tezligi (Download, Upload, Ping) ni aniqlash bo'yicha jahon standarti.",
+    "features": [
+      "Tezkor test",
+      "Ping va jitter o'lchash",
+      "Global serverlar"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Internet",
+      "Tezlik",
+      "Ping"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "Speedtest by Ookla Team"
+  },
+  {
+    "id": "virustotal",
+    "name": "VirusTotal",
+    "url": "https://www.virustotal.com",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Shubhali fayllar va havolalarni 70 dan ortiq antivirus dvigatellari orqali xavfsizlikka tekshiruvchi portal.",
+    "features": [
+      "70+ antiviruslar tekshiruvi",
+      "Zararli havolalarni aniqlash",
+      "Xavfsizlik hisoboti"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Xavfsizlik",
+      "Antivirus",
+      "Tekshirish"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "VirusTotal Team"
+  },
+  {
+    "id": "tempmail",
+    "name": "Temp Mail",
+    "url": "https://temp-mail.org",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Spam va ortiqcha xabarlardan qutulish uchun bir martalik vaqtinchalik anonim elektron pochta.",
+    "features": [
+      "Ro'yxatdan o'tish talab etilmaydi",
+      "Vaqtinchalik quti",
+      "Spamdan himoya"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Email",
+      "Anonim",
+      "Xavfsizlik"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "Temp Mail Team"
+  },
+  {
+    "id": "10minutemail",
+    "name": "10 Minute Mail",
+    "url": "https://10minutemail.com",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "10 daqiqadan so'ng o'z-o'zidan yo'q bo'lib ketuvchi xavfsiz vaqtinchalik elektron manzil.",
+    "features": [
+      "10 daqiqa muddat",
+      "Tasdiqlash kodlarini olish",
+      "Bitta bosishda yangilash"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Vaqtinchalik",
+      "Email",
+      "Tezkor"
+    ],
+    "rating": 4.5,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "10 Minute Mail Team"
+  },
+  {
+    "id": "deepl",
+    "name": "DeepL Translate",
+    "url": "https://www.deepl.com",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Dunyoning eng aniq, tabiiy va so'zma-so'z emas, ma'noga qarab o'giruvchi neyron tarjimoni.",
+    "features": [
+      "Yuqori sifatli tabiiy tarjima",
+      "Hujjatlarni (PDF, DOCX) tarjima qilish",
+      "Grammatik ohang sozlamasi"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Tarjima",
+      "AI Tarjimon",
+      "Lug'at"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "DeepL Translate Team"
+  },
+  {
+    "id": "archiveorg",
+    "name": "Wayback Machine (Archive.org)",
+    "url": "https://archive.org/web",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Istalgan veb-saytning o'tmishdagi (10-20 yil oldingi) ko'rinishlarini saqlab qolgan butunjahon raqamli arxivi.",
+    "features": [
+      "Tarixiy nusxalar",
+      "O'chib ketgan sahifalarni ko'rish",
+      "Raqamli kutubxona"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Arxiv",
+      "Tarix",
+      "Veb"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "Wayback Machine (Archive.org) Team"
+  },
+  {
+    "id": "qr-code-generator",
+    "name": "QR Code Generator",
+    "url": "https://www.qr-code-generator.com",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Havolalar, matnlar, Wi-Fi va kontaktlar uchun logotipli QR-kodlar yasovchi vosita.",
+    "features": [
+      "Dizayn va ranglarni o'zgartirish",
+      "Vektor formatda yuklash",
+      "Logotip qo'shish"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "QR",
+      "Generator",
+      "Utility"
+    ],
+    "rating": 4.5,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "QR Code Generator Team"
+  },
+  {
+    "id": "dictuz",
+    "name": "Savodxon.uz",
+    "url": "https://savodxon.uz",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "O'zbek tilidagi matnlarning imlo xatolarini tekshiruvchi va to'g'ri yozilishini ko'rsatuvchi milliy platforma.",
+    "features": [
+      "Imlo tekshiruvi",
+      "Lotin-kirill o'girgich",
+      "O'zbek tili lug'ati"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "O'zbek tili",
+      "Imlo",
+      "Grammatika"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "Savodxon.uz Team"
+  },
+  {
+    "id": "photopea",
+    "name": "Photopea",
+    "url": "https://www.photopea.com",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Brauzer ichida to'liq ishlaydigan va Photoshop (.PSD), Illustrator (.AI) formatlarini ochuvchi bepul grafik muharrir.",
+    "features": [
+      "Photoshop bilan 95% o'xshashlik",
+      "Hech narsa o'rnatish shart emas",
+      "PSD, XD, Figma fayllarini ochadi"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Photoshop",
+      "Grafika",
+      "Web-editor"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "Photopea Team"
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "url": "https://www.youtube.com",
+    "category": "entertainment",
+    "categoryLabel": "Ko'ngilochar & Mediya",
+    "description": "Dunyoning eng yirik video xostingi, ta'lim, musiqa va video kontentlar maskani.",
+    "features": [
+      "4K translyatsiyalar",
+      "Shorts videolari",
+      "Katta mualliflar hamjamiyati"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Video",
+      "Streaming",
+      "Vlog"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Musiqa, kino, o'yin va ijodiy dam olish ishqibozlari",
+    "freePlanDetails": "Reklama bilan yoki standart sifat darajasida bepul tomosha/tinglash",
+    "paidPlanDetails": "Reklamasiz, oflayn yuklab olish, 4K/Lossless audio va eksklyuziv kontentlar",
+    "pros": [
+      "Millionlab kontentlar bitta joyda jamlangan",
+      "Ajoyib shaxsiy tavsiyalar algoritmi",
+      "Barcha platformalarda mavjud"
+    ],
+    "cons": [
+      "Premium obuna oylik to'lov talab qiladi",
+      "Katta internet trafik sarflaydi"
+    ],
+    "alternatives": [
+      "YouTube",
+      "Spotify",
+      "Netflix"
+    ],
+    "foundedYear": 2010,
+    "company": "YouTube Team"
+  },
+  {
+    "id": "spotify",
+    "name": "Spotify",
+    "url": "https://www.spotify.com",
+    "category": "entertainment",
+    "categoryLabel": "Ko'ngilochar & Mediya",
+    "description": "Millionlab qo'shiqlar, podkastlar va shaxsiy tavsiyalar tizimiga ega global musiqa striming xizmati.",
+    "features": [
+      "Shaxsiy tavsiyalar (Discover Weekly)",
+      "Oflayn rejim",
+      "Podkastlar"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Musiqa",
+      "Podkast",
+      "Audio"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Musiqa, kino, o'yin va ijodiy dam olish ishqibozlari",
+    "freePlanDetails": "Reklama bilan yoki standart sifat darajasida bepul tomosha/tinglash",
+    "paidPlanDetails": "Reklamasiz, oflayn yuklab olish, 4K/Lossless audio va eksklyuziv kontentlar",
+    "pros": [
+      "Millionlab kontentlar bitta joyda jamlangan",
+      "Ajoyib shaxsiy tavsiyalar algoritmi",
+      "Barcha platformalarda mavjud"
+    ],
+    "cons": [
+      "Premium obuna oylik to'lov talab qiladi",
+      "Katta internet trafik sarflaydi"
+    ],
+    "alternatives": [
+      "YouTube",
+      "Spotify",
+      "Netflix"
+    ],
+    "foundedYear": 2010,
+    "company": "Spotify Team"
+  },
+  {
+    "id": "netflix",
+    "name": "Netflix",
+    "url": "https://www.netflix.com",
+    "category": "entertainment",
+    "categoryLabel": "Ko'ngilochar & Mediya",
+    "description": "Dunyo bo'ylab seriallar, filmlar va hujjatli kino asarlarini taqdim etuvchi yetakchi onlayn kinoteatr.",
+    "features": [
+      "Original Netflix filmlari",
+      "Ultra HD 4K va HDR",
+      "Bolalar xavfsiz profili"
+    ],
+    "pricing": "Pullik",
+    "tags": [
+      "Kino",
+      "Seriallar",
+      "Striming"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Musiqa, kino, o'yin va ijodiy dam olish ishqibozlari",
+    "freePlanDetails": "Reklama bilan yoki standart sifat darajasida bepul tomosha/tinglash",
+    "paidPlanDetails": "Reklamasiz, oflayn yuklab olish, 4K/Lossless audio va eksklyuziv kontentlar",
+    "pros": [
+      "Millionlab kontentlar bitta joyda jamlangan",
+      "Ajoyib shaxsiy tavsiyalar algoritmi",
+      "Barcha platformalarda mavjud"
+    ],
+    "cons": [
+      "Premium obuna oylik to'lov talab qiladi",
+      "Katta internet trafik sarflaydi"
+    ],
+    "alternatives": [
+      "YouTube",
+      "Spotify",
+      "Netflix"
+    ],
+    "foundedYear": 2010,
+    "company": "Netflix Team"
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "url": "https://www.twitch.tv",
+    "category": "entertainment",
+    "categoryLabel": "Ko'ngilochar & Mediya",
+    "description": "Kiber-sport, video o'yinlar va jonli efirlarni translyatsiya qilishga mo'ljallangan yetakchi platforma.",
+    "features": [
+      "Jonli chat",
+      "Kiber-sport turnirlari",
+      "Strimerlarni qo'llab-quvvatlash"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Jonli efir",
+      "O'yinlar",
+      "Stream"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Musiqa, kino, o'yin va ijodiy dam olish ishqibozlari",
+    "freePlanDetails": "Reklama bilan yoki standart sifat darajasida bepul tomosha/tinglash",
+    "paidPlanDetails": "Reklamasiz, oflayn yuklab olish, 4K/Lossless audio va eksklyuziv kontentlar",
+    "pros": [
+      "Millionlab kontentlar bitta joyda jamlangan",
+      "Ajoyib shaxsiy tavsiyalar algoritmi",
+      "Barcha platformalarda mavjud"
+    ],
+    "cons": [
+      "Premium obuna oylik to'lov talab qiladi",
+      "Katta internet trafik sarflaydi"
+    ],
+    "alternatives": [
+      "YouTube",
+      "Spotify",
+      "Netflix"
+    ],
+    "foundedYear": 2010,
+    "company": "Twitch Team"
+  },
+  {
+    "id": "imdb",
+    "name": "IMDb",
+    "url": "https://www.imdb.com",
+    "category": "entertainment",
+    "categoryLabel": "Ko'ngilochar & Mediya",
+    "description": "Filmlar, aktyorlar, seriallar va ularning jahon bo'yicha baholari hamda sharhlarining rasmiy bazasi.",
+    "features": [
+      "Top 250 filmlar",
+      "Foydalanuvchilar sharhlari",
+      "Tizer va treylerlar"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Kino",
+      "Reyting",
+      "Sharhlar"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Musiqa, kino, o'yin va ijodiy dam olish ishqibozlari",
+    "freePlanDetails": "Reklama bilan yoki standart sifat darajasida bepul tomosha/tinglash",
+    "paidPlanDetails": "Reklamasiz, oflayn yuklab olish, 4K/Lossless audio va eksklyuziv kontentlar",
+    "pros": [
+      "Millionlab kontentlar bitta joyda jamlangan",
+      "Ajoyib shaxsiy tavsiyalar algoritmi",
+      "Barcha platformalarda mavjud"
+    ],
+    "cons": [
+      "Premium obuna oylik to'lov talab qiladi",
+      "Katta internet trafik sarflaydi"
+    ],
+    "alternatives": [
+      "YouTube",
+      "Spotify",
+      "Netflix"
+    ],
+    "foundedYear": 2010,
+    "company": "IMDb Team"
+  },
+  {
+    "id": "goodreads",
+    "name": "Goodreads",
+    "url": "https://www.goodreads.com",
+    "category": "entertainment",
+    "categoryLabel": "Ko'ngilochar & Mediya",
+    "description": "Kitobxonlar uchun dunyodagi eng katta ijtimoiy tarmoq, kitoblar tavsiyasi va sharhlari.",
+    "features": [
+      "Kitob o'qish chellenjlari",
+      "Mualliflar baholari",
+      "Shaxsiy virtual kitob javoni"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Kitoblar",
+      "Adabiyot",
+      "Sharhlar"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Musiqa, kino, o'yin va ijodiy dam olish ishqibozlari",
+    "freePlanDetails": "Reklama bilan yoki standart sifat darajasida bepul tomosha/tinglash",
+    "paidPlanDetails": "Reklamasiz, oflayn yuklab olish, 4K/Lossless audio va eksklyuziv kontentlar",
+    "pros": [
+      "Millionlab kontentlar bitta joyda jamlangan",
+      "Ajoyib shaxsiy tavsiyalar algoritmi",
+      "Barcha platformalarda mavjud"
+    ],
+    "cons": [
+      "Premium obuna oylik to'lov talab qiladi",
+      "Katta internet trafik sarflaydi"
+    ],
+    "alternatives": [
+      "YouTube",
+      "Spotify",
+      "Netflix"
+    ],
+    "foundedYear": 2010,
+    "company": "Goodreads Team"
+  },
+  {
+    "id": "reddit",
+    "name": "Reddit",
+    "url": "https://www.reddit.com",
+    "category": "entertainment",
+    "categoryLabel": "Ko'ngilochar & Mediya",
+    "description": "'Internetning bosh sahifasi' deb ataluvchi, har qanday qiziqish bo'yicha millionlab sub-hamjamiyatlar forumi.",
+    "features": [
+      "Subredditlar",
+      "Upvote/Downvote reyting tizimi",
+      "Eng yangi trendlar va memlar"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Forum",
+      "Yangiliklar",
+      "Muhokama"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Musiqa, kino, o'yin va ijodiy dam olish ishqibozlari",
+    "freePlanDetails": "Reklama bilan yoki standart sifat darajasida bepul tomosha/tinglash",
+    "paidPlanDetails": "Reklamasiz, oflayn yuklab olish, 4K/Lossless audio va eksklyuziv kontentlar",
+    "pros": [
+      "Millionlab kontentlar bitta joyda jamlangan",
+      "Ajoyib shaxsiy tavsiyalar algoritmi",
+      "Barcha platformalarda mavjud"
+    ],
+    "cons": [
+      "Premium obuna oylik to'lov talab qiladi",
+      "Katta internet trafik sarflaydi"
+    ],
+    "alternatives": [
+      "YouTube",
+      "Spotify",
+      "Netflix"
+    ],
+    "foundedYear": 2010,
+    "company": "Reddit Team"
+  },
+  {
+    "id": "steam",
+    "name": "Steam",
+    "url": "https://store.steampowered.com",
+    "category": "entertainment",
+    "categoryLabel": "Ko'ngilochar & Mediya",
+    "description": "Kompyuter o'yinlari bo'yicha dunyodagi eng yirik do'kon va geymerlar hamjamiyati.",
+    "features": [
+      "Bulutli saqlash (Cloud saves)",
+      "Katta mavsumiy chegirmalar",
+      "Steam Workshop modlari"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "O'yinlar",
+      "Gaming",
+      "Do'kon"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Musiqa, kino, o'yin va ijodiy dam olish ishqibozlari",
+    "freePlanDetails": "Reklama bilan yoki standart sifat darajasida bepul tomosha/tinglash",
+    "paidPlanDetails": "Reklamasiz, oflayn yuklab olish, 4K/Lossless audio va eksklyuziv kontentlar",
+    "pros": [
+      "Millionlab kontentlar bitta joyda jamlangan",
+      "Ajoyib shaxsiy tavsiyalar algoritmi",
+      "Barcha platformalarda mavjud"
+    ],
+    "cons": [
+      "Premium obuna oylik to'lov talab qiladi",
+      "Katta internet trafik sarflaydi"
+    ],
+    "alternatives": [
+      "YouTube",
+      "Spotify",
+      "Netflix"
+    ],
+    "foundedYear": 2010,
+    "company": "Steam Team"
+  },
+  {
+    "id": "lichess",
+    "name": "Lichess",
+    "url": "https://lichess.org",
+    "category": "entertainment",
+    "categoryLabel": "Ko'ngilochar & Mediya",
+    "description": "Shaxmat o'ynash, boshqotirmalar yechish va o'yinlarni tahlil qilish uchun 100% bepul va reklamasiz ochiq platforma.",
+    "features": [
+      "Reklamasiz va mutlaqo bepul",
+      "Stockfish kuchli tahlili",
+      "Turnirlar va taktikalar"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Shaxmat",
+      "O'yin",
+      "Ochiq kod"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Musiqa, kino, o'yin va ijodiy dam olish ishqibozlari",
+    "freePlanDetails": "Reklama bilan yoki standart sifat darajasida bepul tomosha/tinglash",
+    "paidPlanDetails": "Reklamasiz, oflayn yuklab olish, 4K/Lossless audio va eksklyuziv kontentlar",
+    "pros": [
+      "Millionlab kontentlar bitta joyda jamlangan",
+      "Ajoyib shaxsiy tavsiyalar algoritmi",
+      "Barcha platformalarda mavjud"
+    ],
+    "cons": [
+      "Premium obuna oylik to'lov talab qiladi",
+      "Katta internet trafik sarflaydi"
+    ],
+    "alternatives": [
+      "YouTube",
+      "Spotify",
+      "Netflix"
+    ],
+    "foundedYear": 2010,
+    "company": "Lichess Team"
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "url": "https://www.pinterest.com",
+    "category": "entertainment",
+    "categoryLabel": "Ko'ngilochar & Mediya",
+    "description": "Dizayn, interyer, moda, retseptlar va ijodiy g'oyalar to'plash uchun vizual qidiruv tarmog'i.",
+    "features": [
+      "Pinlar va doskalar",
+      "Vizual g'oyalar izlash",
+      "Kreativ ilhom"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Ilhom",
+      "Fotosuratlar",
+      "G'oyalar"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Musiqa, kino, o'yin va ijodiy dam olish ishqibozlari",
+    "freePlanDetails": "Reklama bilan yoki standart sifat darajasida bepul tomosha/tinglash",
+    "paidPlanDetails": "Reklamasiz, oflayn yuklab olish, 4K/Lossless audio va eksklyuziv kontentlar",
+    "pros": [
+      "Millionlab kontentlar bitta joyda jamlangan",
+      "Ajoyib shaxsiy tavsiyalar algoritmi",
+      "Barcha platformalarda mavjud"
+    ],
+    "cons": [
+      "Premium obuna oylik to'lov talab qiladi",
+      "Katta internet trafik sarflaydi"
+    ],
+    "alternatives": [
+      "YouTube",
+      "Spotify",
+      "Netflix"
+    ],
+    "foundedYear": 2010,
+    "company": "Pinterest Team"
+  },
+  {
+    "id": "tradingview",
+    "name": "TradingView",
+    "url": "https://www.tradingview.com",
+    "category": "finance",
+    "categoryLabel": "Moliya & Kripto",
+    "description": "Aksiyalar, kriptovalyutalar va valyuta bozorlarini professional texnik tahlil qilish uchun eng yaxshi grafiklar.",
+    "features": [
+      "Professional grafiklar",
+      "Pine Script indikatorlari",
+      "Treyding hamjamiyati"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Treyding",
+      "Grafiklar",
+      "Birja"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Investorlar, treyderlar, tadbirkorlar va moliyaviy tahlilchilar",
+    "freePlanDetails": "Asosiy bozor narxlari va standart indikatorlar bilan grafiklar",
+    "paidPlanDetails": "Real vaqt kotirovkalari, cheksiz indikatorlar va tezkor xabarnomalar",
+    "pros": [
+      "Bozor holatini chuqur tahlil qilish imkoniyati",
+      "Ko'p yillik tarixiy ma'lumotlar arxivi",
+      "Global moliyaviy bozorlar qamrovi"
+    ],
+    "cons": [
+      "Bozor tahlili bo'yicha dastlabki bilimlarni talab qiladi",
+      "Moliyaviy xatarlar mavjud"
+    ],
+    "alternatives": [
+      "TradingView",
+      "CoinMarketCap",
+      "Yahoo Finance"
+    ],
+    "foundedYear": 2013,
+    "company": "TradingView Team"
+  },
+  {
+    "id": "coinmarketcap",
+    "name": "CoinMarketCap",
+    "url": "https://coinmarketcap.com",
+    "category": "finance",
+    "categoryLabel": "Moliya & Kripto",
+    "description": "Barcha kriptovalyutalarning jonli narxlari, bozor kapitallashuvi va birjalar statistikasining yetakchi bazasi.",
+    "features": [
+      "Real vaqt narxlari",
+      "Bozor tahlili",
+      "Kripto portfel kuzatish"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Kripto",
+      "Bitcoin",
+      "Statistika"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Investorlar, treyderlar, tadbirkorlar va moliyaviy tahlilchilar",
+    "freePlanDetails": "Asosiy bozor narxlari va standart indikatorlar bilan grafiklar",
+    "paidPlanDetails": "Real vaqt kotirovkalari, cheksiz indikatorlar va tezkor xabarnomalar",
+    "pros": [
+      "Bozor holatini chuqur tahlil qilish imkoniyati",
+      "Ko'p yillik tarixiy ma'lumotlar arxivi",
+      "Global moliyaviy bozorlar qamrovi"
+    ],
+    "cons": [
+      "Bozor tahlili bo'yicha dastlabki bilimlarni talab qiladi",
+      "Moliyaviy xatarlar mavjud"
+    ],
+    "alternatives": [
+      "TradingView",
+      "CoinMarketCap",
+      "Yahoo Finance"
+    ],
+    "foundedYear": 2013,
+    "company": "CoinMarketCap Team"
+  },
+  {
+    "id": "coingecko",
+    "name": "CoinGecko",
+    "url": "https://www.coingecko.com",
+    "category": "finance",
+    "categoryLabel": "Moliya & Kripto",
+    "description": "Kriptovalyuta bozorining mustaqil ma'lumotlar agregatori va trekeri.",
+    "features": [
+      "Ochiq API",
+      "Xolis reytinglar",
+      "Tokenlar statistikasi"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Kripto",
+      "Tokenlar",
+      "Narxlar"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Investorlar, treyderlar, tadbirkorlar va moliyaviy tahlilchilar",
+    "freePlanDetails": "Asosiy bozor narxlari va standart indikatorlar bilan grafiklar",
+    "paidPlanDetails": "Real vaqt kotirovkalari, cheksiz indikatorlar va tezkor xabarnomalar",
+    "pros": [
+      "Bozor holatini chuqur tahlil qilish imkoniyati",
+      "Ko'p yillik tarixiy ma'lumotlar arxivi",
+      "Global moliyaviy bozorlar qamrovi"
+    ],
+    "cons": [
+      "Bozor tahlili bo'yicha dastlabki bilimlarni talab qiladi",
+      "Moliyaviy xatarlar mavjud"
+    ],
+    "alternatives": [
+      "TradingView",
+      "CoinMarketCap",
+      "Yahoo Finance"
+    ],
+    "foundedYear": 2013,
+    "company": "CoinGecko Team"
+  },
+  {
+    "id": "yahoo-finance",
+    "name": "Yahoo Finance",
+    "url": "https://finance.yahoo.com",
+    "category": "finance",
+    "categoryLabel": "Moliya & Kripto",
+    "description": "Jahon iqtisodiy yangiliklari, aksiyalar narxlari, kompaniyalar moliyaviy hisobotlari portali.",
+    "features": [
+      "Bozor yangiliklari",
+      "Kompaniyalar hisobotlari",
+      "Aksiyalar portfeli"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Aksiyalar",
+      "Iqtisodiyot",
+      "Yangiliklar"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Investorlar, treyderlar, tadbirkorlar va moliyaviy tahlilchilar",
+    "freePlanDetails": "Asosiy bozor narxlari va standart indikatorlar bilan grafiklar",
+    "paidPlanDetails": "Real vaqt kotirovkalari, cheksiz indikatorlar va tezkor xabarnomalar",
+    "pros": [
+      "Bozor holatini chuqur tahlil qilish imkoniyati",
+      "Ko'p yillik tarixiy ma'lumotlar arxivi",
+      "Global moliyaviy bozorlar qamrovi"
+    ],
+    "cons": [
+      "Bozor tahlili bo'yicha dastlabki bilimlarni talab qiladi",
+      "Moliyaviy xatarlar mavjud"
+    ],
+    "alternatives": [
+      "TradingView",
+      "CoinMarketCap",
+      "Yahoo Finance"
+    ],
+    "foundedYear": 2013,
+    "company": "Yahoo Finance Team"
+  },
+  {
+    "id": "investing-com",
+    "name": "Investing.com",
+    "url": "https://www.investing.com",
+    "category": "finance",
+    "categoryLabel": "Moliya & Kripto",
+    "description": "Xalqaro iqtisodiy taqvim, foiz stavkalari qarorlari va bozor tahliliy maqolalari.",
+    "features": [
+      "Iqtisodiy taqvim (Economic Calendar)",
+      "Texnik tahlillar",
+      "Valyuta kotirovkalari"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Forex",
+      "Taqvim",
+      "Moliya"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Investorlar, treyderlar, tadbirkorlar va moliyaviy tahlilchilar",
+    "freePlanDetails": "Asosiy bozor narxlari va standart indikatorlar bilan grafiklar",
+    "paidPlanDetails": "Real vaqt kotirovkalari, cheksiz indikatorlar va tezkor xabarnomalar",
+    "pros": [
+      "Bozor holatini chuqur tahlil qilish imkoniyati",
+      "Ko'p yillik tarixiy ma'lumotlar arxivi",
+      "Global moliyaviy bozorlar qamrovi"
+    ],
+    "cons": [
+      "Bozor tahlili bo'yicha dastlabki bilimlarni talab qiladi",
+      "Moliyaviy xatarlar mavjud"
+    ],
+    "alternatives": [
+      "TradingView",
+      "CoinMarketCap",
+      "Yahoo Finance"
+    ],
+    "foundedYear": 2013,
+    "company": "Investing.com Team"
+  },
+  {
+    "id": "bloomberg",
+    "name": "Bloomberg",
+    "url": "https://www.bloomberg.com",
+    "category": "finance",
+    "categoryLabel": "Moliya & Kripto",
+    "description": "Global biznes, moliya va xalqaro siyosat bo'yicha nufuzli yangiliklar va tahlillar manbasi.",
+    "features": [
+      "Eksklyuziv tahlillar",
+      "Bozor tushunchalari",
+      "Oliy toifali jurnalistika"
+    ],
+    "pricing": "Pullik",
+    "tags": [
+      "Biznes",
+      "Yangiliklar",
+      "Global"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Investorlar, treyderlar, tadbirkorlar va moliyaviy tahlilchilar",
+    "freePlanDetails": "Asosiy bozor narxlari va standart indikatorlar bilan grafiklar",
+    "paidPlanDetails": "Real vaqt kotirovkalari, cheksiz indikatorlar va tezkor xabarnomalar",
+    "pros": [
+      "Bozor holatini chuqur tahlil qilish imkoniyati",
+      "Ko'p yillik tarixiy ma'lumotlar arxivi",
+      "Global moliyaviy bozorlar qamrovi"
+    ],
+    "cons": [
+      "Bozor tahlili bo'yicha dastlabki bilimlarni talab qiladi",
+      "Moliyaviy xatarlar mavjud"
+    ],
+    "alternatives": [
+      "TradingView",
+      "CoinMarketCap",
+      "Yahoo Finance"
+    ],
+    "foundedYear": 2013,
+    "company": "Bloomberg Team"
+  },
+  {
+    "id": "stripe",
+    "name": "Stripe",
+    "url": "https://stripe.com",
+    "category": "finance",
+    "categoryLabel": "Moliya & Kripto",
+    "description": "Internet bizneslar uchun onlayn to'lovlarni qabul qilish bo'yicha jahon standartidagi to'lov infratuzilmasi.",
+    "features": [
+      "Dasturchilar uchun a'lo darajadagi API",
+      "Xalqaro kartalar bilan ishlash",
+      "Obunalar boshqaruvi"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "To'lovlar",
+      "E-commerce",
+      "Fintech"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Investorlar, treyderlar, tadbirkorlar va moliyaviy tahlilchilar",
+    "freePlanDetails": "Asosiy bozor narxlari va standart indikatorlar bilan grafiklar",
+    "paidPlanDetails": "Real vaqt kotirovkalari, cheksiz indikatorlar va tezkor xabarnomalar",
+    "pros": [
+      "Bozor holatini chuqur tahlil qilish imkoniyati",
+      "Ko'p yillik tarixiy ma'lumotlar arxivi",
+      "Global moliyaviy bozorlar qamrovi"
+    ],
+    "cons": [
+      "Bozor tahlili bo'yicha dastlabki bilimlarni talab qiladi",
+      "Moliyaviy xatarlar mavjud"
+    ],
+    "alternatives": [
+      "TradingView",
+      "CoinMarketCap",
+      "Yahoo Finance"
+    ],
+    "foundedYear": 2013,
+    "company": "Stripe Team"
+  },
+  {
+    "id": "wise",
+    "name": "Wise",
+    "url": "https://wise.com",
+    "category": "finance",
+    "categoryLabel": "Moliya & Kripto",
+    "description": "Xalqaro pul o'tkazmalarini eng arzon komissiya va real bozor kursi bilan amalga oshiruvchi servis.",
+    "features": [
+      "Ko'p valyutali hisob",
+      "Minimal komissiyalar",
+      "Shaffof konvertatsiya"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Bank",
+      "O'tkazma",
+      "Valyuta"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Investorlar, treyderlar, tadbirkorlar va moliyaviy tahlilchilar",
+    "freePlanDetails": "Asosiy bozor narxlari va standart indikatorlar bilan grafiklar",
+    "paidPlanDetails": "Real vaqt kotirovkalari, cheksiz indikatorlar va tezkor xabarnomalar",
+    "pros": [
+      "Bozor holatini chuqur tahlil qilish imkoniyati",
+      "Ko'p yillik tarixiy ma'lumotlar arxivi",
+      "Global moliyaviy bozorlar qamrovi"
+    ],
+    "cons": [
+      "Bozor tahlili bo'yicha dastlabki bilimlarni talab qiladi",
+      "Moliyaviy xatarlar mavjud"
+    ],
+    "alternatives": [
+      "TradingView",
+      "CoinMarketCap",
+      "Yahoo Finance"
+    ],
+    "foundedYear": 2013,
+    "company": "Wise Team"
+  },
+  {
+    "id": "rayso",
+    "name": "Ray.so",
+    "url": "https://ray.so",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "Kodingizni ijtimoiy tarmoqlar va maqolalar uchun juda chiroyli rasm (screenshot) holatiga keltiruvchi vosita.",
+    "features": [
+      "Chiroyli mavzular (themes)",
+      "Sintaksisni ajratib ko'rsatish",
+      "PNG/SVG eksport"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Kod",
+      "Skrinshot",
+      "Dizayn"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "Ray.so Team"
+  },
+  {
+    "id": "jsonlint",
+    "name": "JSONLint",
+    "url": "https://jsonlint.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "JSON kodidagi xatolarni bir zumda topuvchi, formatlovchi va tekshiruvchi onlayn validator.",
+    "features": [
+      "JSON formatlash",
+      "Xatolarni ko'rsatish",
+      "Tozalash"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "JSON",
+      "Validator",
+      "Formatter"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "JSONLint Team"
+  },
+  {
+    "id": "regex101",
+    "name": "Regex101",
+    "url": "https://regex101.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "Regular Expressions (Regex) ifodalarini yozish, test qilish va har bir belgisini tushunish vositasi.",
+    "features": [
+      "Real vaqtda testlash",
+      "Bosqichma-bosqich izoh",
+      "Turli dasturlash tillari rejimi"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Regex",
+      "String",
+      "Tools"
+    ],
+    "rating": 5,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "Regex101 Team"
+  },
+  {
+    "id": "css-tricks",
+    "name": "CSS-Tricks",
+    "url": "https://css-tricks.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "CSS Flexbox, Grid va zamonaviy veb-uslublar haqidagi eng mashhur maqolalar to'plami.",
+    "features": [
+      "Flexbox to'liq qo'llanmasi",
+      "Grid qo'llanmasi",
+      "Foydali CSS fokuslar"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "CSS",
+      "Frontend",
+      "Styling"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "CSS-Tricks Team"
+  },
+  {
+    "id": "bundlephobia",
+    "name": "Bundlephobia",
+    "url": "https://bundlephobia.com",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "Har qanday npm paketining ilova tezligiga va hajmiga (bundle size) ta'sirini tekshiruvchi sayt.",
+    "features": [
+      "Gzip hajmini hisoblash",
+      "Yuklanish vaqtini chamalash",
+      "Muqobil yengil kutubxonalar"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Optimizatsiya",
+      "NPM",
+      "Paketlar"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "Bundlephobia Team"
+  },
+  {
+    "id": "uiverse",
+    "name": "Uiverse.io",
+    "url": "https://uiverse.io",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "Hamjamiyat tomonidan yaratilgan 3000 dan ortiq tayyor CSS va Tailwind tugmalar, kartalar va yuklovchilar.",
+    "features": [
+      "Nusxa ko'chirish va joylashtirish",
+      "Tailwind va oddiy CSS",
+      "Ajoyib animatsiyalar"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "UI",
+      "CSS",
+      "Komponentlar"
+    ],
+    "rating": 4.8,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Uiverse.io Team"
+  },
+  {
+    "id": "undraw",
+    "name": "unDraw",
+    "url": "https://undraw.co",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "Sayt va ilovalaringiz asosiy rangiga moslab o'zgartirsa bo'ladigan bepul ochiq kodli vektor rasmlar.",
+    "features": [
+      "Rangni bir bosishda moslashtirish",
+      "SVG yuklab olish",
+      "Attribution talab qilinmaydi"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Illyustratsiya",
+      "SVG",
+      "Vektor"
+    ],
+    "rating": 4.8,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "unDraw Team"
+  },
+  {
+    "id": "mobbin",
+    "name": "Mobbin",
+    "url": "https://mobbin.com",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "Dunyoning eng mashhur mobil va veb ilovalarining (iOS, Android, Web) real skrinshotlari kutubxonasi.",
+    "features": [
+      "Haqiqiy ilovalar flow-lari",
+      "UI patternlar tahlili",
+      "Dizaynerlar uchun eng yaxshi referans"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Mobile UI",
+      "Skrinshotlar",
+      "Patterns"
+    ],
+    "rating": 4.9,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Mobbin Team"
+  },
+  {
+    "id": "iconify",
+    "name": "Iconify",
+    "url": "https://iconify.design",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "200,000 dan ortiq ochiq kodli barcha mashhur ikonka to'plamlarini (Lucide, Material, FontAwesome) birlashtirgan tizim.",
+    "features": [
+      "Barcha mashhur to'plamlar",
+      "React, Vue, Svelte komponentlari",
+      "SVG qidiruvi"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Ikonkalar",
+      "Kutubxona",
+      "UI"
+    ],
+    "rating": 4.8,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "Iconify Team"
+  },
+  {
+    "id": "svgrepo",
+    "name": "SVG Repo",
+    "url": "https://www.svgrepo.com",
+    "category": "design",
+    "categoryLabel": "Dizayn & Grafika",
+    "description": "500,000 dan ortiq bepul ochiq litsenziyali SVG vektorlar va piktogrammalar qidiruvi.",
+    "features": [
+      "Tijoriy loyihalarda foydalanish mumkin",
+      "SVG tahrirlash",
+      "Toza kod"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "SVG",
+      "Vektor",
+      "Icons"
+    ],
+    "rating": 4.7,
+    "targetAudience": "UI/UX dizaynerlar, grafik rassomlar, illyustratorlar va marketologlar",
+    "freePlanDetails": "Asosiy loyihalar, shablonlar va ommaviy resurslardan foydalanish",
+    "paidPlanDetails": "Cheksiz loyihalar, jamoaviy kutubxonalar, vektor/HD eksport va AI vositalar",
+    "pros": [
+      "Zamonaviy va qulay vizual interfeys",
+      "Vaqtni tejovchi tayyor komponentlar",
+      "Real vaqtda birgalikda ishlash imkoni"
+    ],
+    "cons": [
+      "Yuqori aniqlikdagi eksportlar ko'pincha pullik obuna talab qiladi",
+      "Katta loyihalarda qurilma xotirasini band qilishi mumkin"
+    ],
+    "alternatives": [
+      "Figma",
+      "Canva",
+      "Coolors"
+    ],
+    "foundedYear": 2016,
+    "company": "SVG Repo Team"
+  },
+  {
+    "id": "roadmapsh",
+    "name": "Roadmap.sh",
+    "url": "https://roadmap.sh",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Frontend, Backend, DevOps, AI va boshqa sohalarda mutaxassis bo'lish uchun bosqichma-bosqich yo'l xaritalari.",
+    "features": [
+      "Aniq ketma-ketlik",
+      "Mavzuli darsliklar tavsiyasi",
+      "Hamjamiyat yo'l xaritalari"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Yo'l xaritasi",
+      "Karyera",
+      "Dasturlash"
+    ],
+    "rating": 5,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "Roadmap.sh Team"
+  },
+  {
+    "id": "exercism",
+    "name": "Exercism",
+    "url": "https://exercism.org",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "70 ga yaqin dasturlash tillarini bepul o'rganish va haqiqiy mentorlardan kodingizga bepul fikr (review) olish maydoni.",
+    "features": [
+      "Bepul insoniy mentorlik",
+      "70+ dasturlash tillari",
+      "Qiziqarli amaliy topshiriqlar"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Mentorlik",
+      "Kod amaliyoti",
+      "Open source"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "Exercism Team"
+  },
+  {
+    "id": "wolframalpha",
+    "name": "Wolfram|Alpha",
+    "url": "https://www.wolframalpha.com",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Hisoblash intellekti — murakkab matematika tenglamalari, kimyo va fizik formulalarni bosqichma-bosqich yechuvchi gigant.",
+    "features": [
+      "Bosqichma-bosqich yechim",
+      "Ilmiy hisob-kitoblar",
+      "Aniq ma'lumotlar bazasi"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Matematika",
+      "Ilm-fan",
+      "Kalkulyator"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "Wolfram|Alpha Team"
+  },
+  {
+    "id": "hackerrank",
+    "name": "HackerRank",
+    "url": "https://www.hackerrank.com",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Dasturchilarning texnik bilimlarini sinovdan o'tkazish va sertifikatlash uchun mashhur platforma.",
+    "features": [
+      "Ko'nikmalarni sertifikatlash",
+      "Kompaniyalar topshiriqlari",
+      "Turli qiyinlik darajalari"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Imtihon",
+      "Masalalar",
+      "Sertifikat"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "HackerRank Team"
+  },
+  {
+    "id": "chatpdf",
+    "name": "ChatPDF",
+    "url": "https://www.chatpdf.com",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Har qanday kitob yoki PDF hujjatni yuklab, u bilan chat rejimida savol-javob qilish imkonini beruvchi AI vosita.",
+    "features": [
+      "PDF dan ma'lumot qidirish",
+      "Sahifalardan xulosalar",
+      "Talabalar va tadqiqotchilar uchun ideal"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "PDF",
+      "AI Chat",
+      "Hujjat"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "ChatPDF Team"
+  },
+  {
+    "id": "v0dev",
+    "name": "v0 by Vercel",
+    "url": "https://v0.dev",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Matnli tavsif orqali soniyalar ichida zamonaviy React, Tailwind va shadcn/ui interfeyslarini yaratuvchi generativ tizim.",
+    "features": [
+      "Tayyor React kod",
+      "Tailwind styling",
+      "Jonli ko'rinish va nusxa olish"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Generativ UI",
+      "React",
+      "Frontend AI"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "v0 by Vercel Team"
+  },
+  {
+    "id": "phind",
+    "name": "Phind",
+    "url": "https://www.phind.com",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Maxsus dasturchilar uchun moslashtirilgan, texnik hujjatlar va aniq kod namunalari bilan javob beruvchi qidiruv tizimi.",
+    "features": [
+      "Dasturlashga yo'naltirilgan qidiruv",
+      "Texnik dokumentatsiya integratsiyasi",
+      "Tezkor javoblar"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Dasturchilar qidiruvi",
+      "AI Kod",
+      "Search"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "Phind Team"
+  },
+  {
+    "id": "gammaapp",
+    "name": "Gamma App",
+    "url": "https://gamma.app",
+    "category": "ai",
+    "categoryLabel": "Sun'iy intellekt",
+    "description": "Faqatgina mavzuni kiritish orqali 1 daqiqada ajoyib dizayndagi taqdimotlar (prezentatsiyalar) va veb-sahifalar yaratuvchi AI.",
+    "features": [
+      "Bir daqiqada slaydlar",
+      "Interaktiv dizayn",
+      "Eksport qilish (PDF/PPT)"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Prezentatsiya",
+      "Slaydlar",
+      "AI Dizayn"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Dasturchilar, talabalar, tadqiqotchilar va kontent yaratuvchilar",
+    "freePlanDetails": "Asosiy modeldan cheklangan xabarlar soni va umumiy funksiyalar",
+    "paidPlanDetails": "Eng yangi ilg'or modellar, ustuvor server tezligi va API kirish huquqi",
+    "pros": [
+      "Vaqtni 5-10 baravargacha tejaydi",
+      "Ko'p tillarni mukammal tushunadi va o'zbek tilini yaxshi biladi",
+      "Murakkab masalalarni soddalashtiradi"
+    ],
+    "cons": [
+      "Ba'zan noto'g'ri ma'lumot to'qishi (hallucination) mumkin",
+      "Internet ulanishi shart"
+    ],
+    "alternatives": [
+      "Claude AI",
+      "Google Gemini",
+      "Perplexity"
+    ],
+    "foundedYear": 2022,
+    "company": "Gamma App Team"
+  },
+  {
+    "id": "watermarkremover",
+    "name": "WatermarkRemover.io",
+    "url": "https://www.watermarkremover.io",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Suratlar va rasmlardagi suv belgilari (suv tamg'alari) va matnlarni sifatni saqlagan holda o'chiruvchi AI servis.",
+    "features": [
+      "Avtomatik aniqlash",
+      "Tezkor tozalash",
+      "Yuqori sifat"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Rasm",
+      "Watermark",
+      "Tozalash"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "WatermarkRemover.io Team"
+  },
+  {
+    "id": "privatenote",
+    "name": "Privnote",
+    "url": "https://privnote.com",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "O'qilgan zahoti butunlay o'chib ketadigan shifrlangan va xavfsiz bir martalik maxfiy xabarlar yuborish sayti.",
+    "features": [
+      "O'qilgach o'chish",
+      "Parol bilan himoya",
+      "Hech qanday iz qoldirmaydi"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Xavfsizlik",
+      "Maxfiy",
+      "Eslatma"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "Privnote Team"
+  },
+  {
+    "id": "downforeveryoneorjustme",
+    "name": "Down For Everyone Or Just Me",
+    "url": "https://downforeveryoneorjustme.com",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Biron sayt ochilmay qolganda, u faqat sizda ishlamayaptimi yoki butun dunyoda buzilganmi, shuni aniqlab beruvchi sayt.",
+    "features": [
+      "Server holatini tekshirish",
+      "Global ping",
+      "Bir necha soniyada natija"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Uptime",
+      "Tarmoq",
+      "Tekshiruv"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "Down For Everyone Or Just Me Team"
+  },
+  {
+    "id": "diffchecker",
+    "name": "Diffchecker",
+    "url": "https://www.diffchecker.com",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Ikki matn, kod, PDF yoki rasm o'rtasidagi barcha farqlarni qizil va yashil rang bilan solishtirib beruvchi onlayn vosita.",
+    "features": [
+      "Matnlar farqi",
+      "Rasm solishtirish",
+      "Fayllar tahlili"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Diff",
+      "Solishtirish",
+      "Kod"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "Diffchecker Team"
+  },
+  {
+    "id": "convertio",
+    "name": "Convertio",
+    "url": "https://convertio.co",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Har qanday fayl formatini (audio, video, hujjat, arxiv) boshqa formatga o'zgartiruvchi universal konvertor.",
+    "features": [
+      "300 dan ortiq formatlar",
+      "Bulutda ishlash",
+      "Qulay va oson"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Konvertor",
+      "Fayllar",
+      "Format"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "Convertio Team"
+  },
+  {
+    "id": "we-transfer",
+    "name": "WeTransfer",
+    "url": "https://wetransfer.com",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "2 GB gacha bo'lgan katta hajmdagi og'ir fayllarni hech qanday ro'yxatdan o'tmasdan havola orqali boshqalarga yuborish sayti.",
+    "features": [
+      "Ro'yxatdan o'tish shart emas",
+      "2 GB bepul yuborish",
+      "Email orqali yetkazish"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Fayl almashish",
+      "Katta hajmli",
+      "Bulut"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "WeTransfer Team"
+  },
+  {
+    "id": "hunterio",
+    "name": "Hunter.io",
+    "url": "https://hunter.io",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "Istalgan kompaniyaning domeni bo'yicha unda ishlovchi xodimlarning professional korporativ email manzillarini topish tizimi.",
+    "features": [
+      "Email qidiruvi",
+      "Email to'g'riligini tasdiqlash",
+      "Kompaniya xodimlari ro'yxati"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Email qidiruv",
+      "Biznes",
+      "B2B"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "Hunter.io Team"
+  },
+  {
+    "id": "pastebin",
+    "name": "Pastebin",
+    "url": "https://pastebin.com",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Matn va kod parchalarini qisqa vaqtga yoki doimiy saqlab, boshqalarga havola qilib ulashish xizmati.",
+    "features": [
+      "Sintaksis yoritish",
+      "Amal qilish muddatini tanlash",
+      "Parol bilan himoyalash"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Kod ulashish",
+      "Paste",
+      "Text"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "Pastebin Team"
+  },
+  {
+    "id": "drawio",
+    "name": "diagrams.net (draw.io)",
+    "url": "https://app.diagrams.net",
+    "category": "productivity",
+    "categoryLabel": "Samaradorlik",
+    "description": "Dastur arxitekturasi, blok-sxemalar va UML diagrammalar chizish uchun 100% bepul professional muharrir.",
+    "features": [
+      "Mutlaqo bepul",
+      "Google Drive/GitHub bilan bog'lanish",
+      "Katta shakllar to'plami"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Blok-sxema",
+      "Diagramma",
+      "Arxitektura"
+    ],
+    "rating": 4.9,
+    "targetAudience": "Masofadan ishlovchilar, frilanserlar, loyiha boshqaruvchilari va samaradorlikka intiluvchilar",
+    "freePlanDetails": "Shaxsiy kundalik rejalashtirish, asosiy bloklar va kichik jamoa uchun to'liq yetarli",
+    "paidPlanDetails": "Cheksiz fayl yuklash hajmi, ilg'or AI avtomatlashtirish va batafsil tahlillar",
+    "pros": [
+      "Barcha ma'lumot va rejalarni bir tizimga keltiradi",
+      "Barcha qurilmalarda avtomatik sinxronlanadi",
+      "Fokusni saqlashga yordam beradi"
+    ],
+    "cons": [
+      "Shaxsiy tizimni sozlash uchun dastlab biroz vaqt sarflash kerak",
+      "Offline rejimda ba'zi funksiyalar to'liq ishlamaydi"
+    ],
+    "alternatives": [
+      "Notion",
+      "Trello",
+      "Todoist"
+    ],
+    "foundedYear": 2018,
+    "company": "diagrams.net (draw.io) Team"
+  },
+  {
+    "id": "medium",
+    "name": "Medium",
+    "url": "https://medium.com",
+    "category": "education",
+    "categoryLabel": "Ta'lim & O'rganish",
+    "description": "Dunyodagi eng yaxshi dasturchilar, tadbirkorlar va mutaxassislarning tahliliy maqolalari o'qiladigan blog platforma.",
+    "features": [
+      "Chuqur tahliliy maqolalar",
+      "Mualliflik bloglari",
+      "Qulay o'qish formati"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Maqolalar",
+      "Blog",
+      "Texnologiya"
+    ],
+    "rating": 4.6,
+    "targetAudience": "Maktab o'quvchilari, talabalar, mustaqil o'rganuvchilar va yangi kasb egalari",
+    "freePlanDetails": "Ko'plab boshlang'ich darslar, interaktiv mashqlar va ochiq ma'ruzalar",
+    "paidPlanDetails": "Xalqaro diplom va sertifikatlar, shaxsiy mentorlik va uy vazifalarini tekshirish",
+    "pros": [
+      "Dunyoning eng sara mutaxassislaridan bilim olish",
+      "Moslashuvchan o'rganish grafigi",
+      "Amaliy mashg'ulotlar va real loyihalar"
+    ],
+    "cons": [
+      "Mustaqil intizom va muntazam shug'ullanish talab etiladi",
+      "Rasmiy sertifikatlar to'lov talab qiladi"
+    ],
+    "alternatives": [
+      "Coursera",
+      "edX",
+      "Khan Academy"
+    ],
+    "foundedYear": 2012,
+    "company": "Medium Team"
+  },
+  {
+    "id": "devto",
+    "name": "DEV Community",
+    "url": "https://dev.to",
+    "category": "dev",
+    "categoryLabel": "Dasturlash",
+    "description": "Dasturchilar o'z tajribalari, yangi qo'llanmalar va maslahatlari bilan ochiq bo'lishadigan hamjamiyat blogi.",
+    "features": [
+      "Ochiq kodli muhit",
+      "Foydali dasturlash qo'llanmalari",
+      "Muhokamalar"
+    ],
+    "pricing": "Bepul",
+    "tags": [
+      "Dasturchilar blogi",
+      "Hamjamiyat",
+      "Dev"
+    ],
+    "rating": 4.8,
+    "targetAudience": "Frontend, Backend, DevOps va Full-stack dasturchilar hamda IT jamoalar",
+    "freePlanDetails": "Shaxsiy loyihalar, ochiq manbali kodlar va asosiy qulayliklar",
+    "paidPlanDetails": "Katta jamoaviy hamkorlik, cheksiz server quvvati va kengaytirilgan xavfsizlik",
+    "pros": [
+      "Dasturlash unumdorligini oshiradi",
+      "Katta xalqaro hamjamiyat va tayyor yechimlar mavjud",
+      "Ishonchli va barqaror infratuzilma"
+    ],
+    "cons": [
+      "Boshlovchilar uchun texnik atamalar biroz murakkab",
+      "Katta resurslarda pullik tarifga o'tish kerak"
+    ],
+    "alternatives": [
+      "GitLab",
+      "Vercel",
+      "Supabase"
+    ],
+    "foundedYear": 2015,
+    "company": "DEV Community Team"
+  },
+  {
+    "id": "bitly",
+    "name": "Bitly",
+    "url": "https://bitly.com",
+    "category": "tools",
+    "categoryLabel": "Foydali vositalar",
+    "description": "Uzun havolalarni qisqartirish, o'z brendiga moslashtirish va nechta odam bosganini hisoblab boruvchi servis.",
+    "features": [
+      "Havolalarni qisqartirish",
+      "Batafsil bosilishlar statistikasi",
+      "QR-kodlar"
+    ],
+    "pricing": "Freemium",
+    "tags": [
+      "Havola",
+      "Shortener",
+      "Statistika"
+    ],
+    "rating": 4.7,
+    "targetAudience": "Oddiy kompyuter va telefon foydalanuvchilaridan tortib IT mutaxassislarigacha",
+    "freePlanDetails": "Kunlik belgilangan miqdordagi bepul amallar va konvertatsiyalar",
+    "paidPlanDetails": "Cheksiz katta hajmli fayllarni ommaviy (batch) qayta ishlash va yuqori tezlik",
+    "pros": [
+      "Dastur o'rnatishni talab qilmaydi, brauzerda ishlaydi",
+      "Ishni bir necha soniyada bajaradi",
+      "Foydalanish juda oson va qulay"
+    ],
+    "cons": [
+      "Fayl hajmida cheklovlar bor",
+      "Internet tezligiga bog'liq"
+    ],
+    "alternatives": [
+      "TinyPNG",
+      "iLovePDF",
+      "Remove.bg"
+    ],
+    "foundedYear": 2017,
+    "company": "Bitly Team"
+  }
+]
